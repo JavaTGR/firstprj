@@ -1,0 +1,2 @@
+# first-coding
+simple exercises
