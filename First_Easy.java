@@ -61,6 +61,7 @@ public class First_Easy {
     /*public String sixth_method (String s){
         return new StringBuilder(s).reverse().toString();
     }
+    // метод со стрингбилдером
 
      */
 
